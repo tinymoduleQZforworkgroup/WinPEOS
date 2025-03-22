@@ -22,6 +22,8 @@
 
 ## 基于WimBuilder2 - WIN10XPE构建
 
+[WinPEOS 24H2![WINPE-2025-03-19-20-42-47](https://github.com/user-attachments/assets/d28038a8-e202-4a43-921d-a56fab348a9d)
+
 PECMD使用无LMD版
 
 该镜像提供了CD和UDF双格式，CD兼容任何操作系统，不支持小写优化，不支持超大文件；而UDF优化比较好，支持超大文件，缺点是不支持DOS及WINNT4.0及以下的版本
@@ -89,3 +91,11 @@ WinPEOS 1809
 WinPEOS 03
 
 FreeWPEDOS 1.3
+
+# 下载
+
+huang1111云盘下载：
+
+](https://pan.huang1111.cn/s/Qz4dgUm)
+
+GitHub下载：[点我跳转](https://github.com/tinymoduleQZforworkgroup/WinPEOS/releases/latest)
