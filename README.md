@@ -22,7 +22,7 @@
 
 ## 基于WimBuilder2 - WIN10XPE构建
 
-图片：![WINPE-2025-03-19-20-42-47](https://github.com/user-attachments/assets/d28038a8-e202-4a43-921d-a56fab348a9d)
+![WINPE-2025-03-19-20-42-47](https://github.com/user-attachments/assets/d28038a8-e202-4a43-921d-a56fab348a9d)
 
 PECMD使用无LMD版
 
