@@ -94,8 +94,6 @@ FreeWPEDOS 1.3
 
 # 下载
 
-huang1111云盘下载：
-
-[WinPEOS 24H2](https://pan.huang1111.cn/s/Qz4dgUm)
+huang1111云盘下载：[WinPEOS 24H2](https://pan.huang1111.cn/s/Qz4dgUm)
 
 GitHub下载：[点我跳转](https://github.com/tinymoduleQZforworkgroup/WinPEOS/releases/latest)
