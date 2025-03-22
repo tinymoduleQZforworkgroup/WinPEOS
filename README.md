@@ -22,7 +22,7 @@
 
 ## 基于WimBuilder2 - WIN10XPE构建
 
-图片：[WinPEOS 24H2![WINPE-2025-03-19-20-42-47](https://github.com/user-attachments/assets/d28038a8-e202-4a43-921d-a56fab348a9d)
+图片：![WINPE-2025-03-19-20-42-47](https://github.com/user-attachments/assets/d28038a8-e202-4a43-921d-a56fab348a9d)
 
 PECMD使用无LMD版
 
@@ -96,6 +96,6 @@ FreeWPEDOS 1.3
 
 huang1111云盘下载：
 
-WinPEOS 24H2：[点我跳转](https://pan.huang1111.cn/s/Qz4dgUm)
+[WinPEOS 24H2](https://pan.huang1111.cn/s/Qz4dgUm)
 
 GitHub下载：[点我跳转](https://github.com/tinymoduleQZforworkgroup/WinPEOS/releases/latest)
